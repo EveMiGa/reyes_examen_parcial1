@@ -33,14 +33,20 @@ function IndexHeader() {
           ref={pageHeader}
         ></div>
         <Container>
-          <div className="content-center brand">
+         <div className="content-center brand">
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/EvelynGallegos.jpg")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSIDAD TECNOLÓGICA DE DURANGO</h1>
+            <h3>GALLEGOS VALDEZ EVELYN MICHELL</h3>
+            <h2>
+              GESTION DEL PROCESO DE SOFTWARE
+            </h2>
+            <h2>
+              PARCIAL 1
+            </h2>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
